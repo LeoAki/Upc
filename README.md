@@ -14,6 +14,6 @@ Tutorial Básico de Java de Abraham Otero:
 
 https://odelys2003.files.wordpress.com/2011/11/java-basico.pdf
 
-Java tutorial zetcode (en inglÎáÎéÎİs):
+Java tutorial zetcode (en ingés):
 
 http://zetcode.com/lang/java/
