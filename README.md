@@ -10,7 +10,7 @@ Tutorial Java de Jorge Sanchez:
 
 http://jorgesanchez.net/programacion/manuales/Java.pdf
 
-Tutorial BŒ·ŒıŒ›sico de Java de Abraham Otero:
+Tutorial B·sico de Java de Abraham Otero:
 
 https://odelys2003.files.wordpress.com/2011/11/java-basico.pdf
 
